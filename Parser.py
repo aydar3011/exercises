@@ -4,16 +4,6 @@ from bs4 import BeautifulSoup
 from bs4 import BeautifulStoneSoup
 import wget
 
-def csvwrite(result):
-    with open('products.csv', 'w', encoding='utf-8') as b:
-        fieldnames=['_MODEL_','_NAME_', '_IMAGE_','_MANUFACTURER_','_MAIN_CATEGORY_','_DESCRIPTION_','_ATTRIBUTES_']
-        writer = csv.DictWriter(b, delimiter=';', fieldnames=fieldnames)
-        writer.writeheader()
-        for line in result:
-            writer.writerow(line)
-        b.close()
-
-
 def parsingProducts(url):
     results = []
     r = requests.get(url)
