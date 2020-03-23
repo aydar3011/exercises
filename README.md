@@ -5,3 +5,5 @@
   4. Turings_Machine - машина Тьюринга, которая выполняет алгоритм, записанный в input.txt
   5. struct.cpp и reader.cpp - sturct.cpp считывает из файла данные и выводит в бинарный файл структуры. в reader.cpp происхожит считывание структуры из бинарного файла и вывод обработанной информации в текстовый файл.
   6. Semestrovka2.9 - семестровое задани - рекурентное образование матриц https://drive.google.com/open?id=12TJzconVDGKFvjXjH-Xa7fSWq4TqXBLa
+7. ПРимер задания на php задачник MVC. http://test-tasklist.h1n.ru
+https://github.com/aydar3011/tasklist
