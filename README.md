@@ -9,3 +9,4 @@
 https://github.com/aydar3011/tasklist
   8. Парсинг с сайта Озон товаров в категории "продукты питания" по поисковому запросу https://github.com/aydar3011/ozon27
   9. Разработка сайтов abrom.ru, tea-koffe.ru, vorota116kazan.ru
+  10. Парсер с сайта leader-id.ru https://github.com/aydar3011/parserLeader
